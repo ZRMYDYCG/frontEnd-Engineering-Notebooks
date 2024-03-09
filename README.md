@@ -468,6 +468,8 @@ class MyClass implements myInter {
 }
 ```
 
+23. 泛型
+
 xx.  tsc .\TypeScript的类型声明.ts -w
 
 进行 .ts 文件的自动监视更新 js
