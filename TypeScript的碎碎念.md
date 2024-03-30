@@ -468,7 +468,10 @@ class MyClass implements myInter {
 }
 ```
 
+<<<<<<< HEAD:README.md
 23. 泛型
+=======
+>>>>>>> 1e54cb96a80a6baf7efe97a67255d0a5137f105c:TypeScript的碎碎念.md
 
 xx.  tsc .\TypeScript的类型声明.ts -w
 
